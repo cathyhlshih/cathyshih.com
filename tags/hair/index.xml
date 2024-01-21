@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hair on Cathy Shih</title>
+    <link>/tags/hair/</link>
+    <description>Recent content in hair on Cathy Shih</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hair/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>80s Mullet Hairstyle In Unity</title>
+      <link>/80s-mullet-hair-model/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/80s-mullet-hair-model/</guid>
+      <description>80s Mullet Hairstyle In Unity I crafted a 80s mullet hairstyle using Blender, adopting a common hair creation workflow often associated with ZBrush. The process involved sculpting the hair shape and placing hair card curves for with layers – from the base layer to breakups to transitional layer.
+Hair cards creation was done entirely within Blender, utilizing its hair tools, geometry nodes, and shader nodes. The final render was done with a custom anisotropic highlight hair shader created with Unity&amp;rsquo;s Shader Graph in the Universal Render Pipeline (URP).</description>
+    </item>
+    
+  </channel>
+</rss>

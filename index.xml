@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cathy Shih</title>
+    <link>/</link>
+    <description>Recent content on Cathy Shih</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>80s Mullet Hairstyle In Unity</title>
+      <link>/80s-mullet-hair-model/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/80s-mullet-hair-model/</guid>
+      <description>80s Mullet Hairstyle In Unity I crafted a 80s mullet hairstyle using Blender, adopting a common hair creation workflow often associated with ZBrush. The process involved sculpting the hair shape and placing hair card curves for with layers – from the base layer to breakups to transitional layer.
+Hair cards creation was done entirely within Blender, utilizing its hair tools, geometry nodes, and shader nodes. The final render was done with a custom anisotropic highlight hair shader created with Unity&amp;rsquo;s Shader Graph in the Universal Render Pipeline (URP).</description>
+    </item>
+    
+    <item>
+      <title>404</title>
+      <link>/404.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/404.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>3D Character Artist and Shader Developer specializing in Blender for sculpting and modeling, Substance Painter for texturing and Unity engine for project development. Notable expertise includes a refined workflow for hair model creation and delivering optimal results with custom shaders. 以Blender進行雕刻和建模的3D角色藝術家及Shader開發者，使用Substance Painter進行紋理製作，並在Unity引擎中進行專案開發。專業技能包括精緻的髮型模型製作流程以及通過自定義Shader實現最佳效果。Art Consultant Stone Carter StudiosApril 2022 - PresentWorking as an art consultant for an MMORPG project. I am responsible for developing the comprehensive art direction, encompassing the creation of game world concepts, development of game environments, creating characters, texturing, and enhancement of rendering within the Unity Universal Render Pipeline (URP).</description>
+    </item>
+    
+  </channel>
+</rss>
