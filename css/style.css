@@ -1995,6 +1995,9 @@ input#nav-toggle:checked ~ #nav-menu {
 .mb-10 {
   margin-bottom: 2.5rem;
 }
+.mb-12 {
+  margin-bottom: 3rem;
+}
 .mb-14 {
   margin-bottom: 3.5rem;
 }
@@ -2030,6 +2033,9 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .ms-1 {
   margin-inline-start: 0.25rem;
+}
+.mt-4 {
+  margin-top: 1rem;
 }
 .mt-6 {
   margin-top: 1.5rem;
@@ -2198,6 +2204,9 @@ input#nav-toggle:checked ~ #nav-menu {
 .py-\[2\.5px\] {
   padding-top: 2.5px;
   padding-bottom: 2.5px;
+}
+.pb-0 {
+  padding-bottom: 0px;
 }
 .pb-6 {
   padding-bottom: 1.5rem;
@@ -3417,6 +3426,10 @@ input#nav-toggle:checked ~ #nav-menu {
 
   .lg\:block {
     display: block;
+  }
+
+  .lg\:inline-block {
+    display: inline-block;
   }
 
   .lg\:flex {

@@ -1,0 +1,12 @@
+[{
+  "section": "Work",
+  "slug": "/zh/work/80s-hair-model/",
+  "title": "80年代髮型在Unity中渲染",
+  "description": "80年代髮型在UnityURP中渲染，我使用Blender製作了80年代髮型，採用了通常與ZBrush相關的常見頭髮創建工作流程。",
+  "date": "2023年12月20日",
+  "image": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n  \n\n  \n  \n    \n      \n    \n\n\n    \n    \n\n\n    \n    \n      \n      \n    \n    \n    \n\n\n    \n    \n      \n      \n        \n        \n        \n        \n        \n        \n\n\n        \n        \n\n\n        \u003cimg\n          \n            src=\"/images/80s-hair-model/CathyShih_80sHairModel_2_hueaaf4ee0dc43a347f581cd22b4ec8ec0_1115718_420x0_resize_q80_h2_lanczos_3.webp\" loading=\"lazy\" decoding=\"async\"\n          \n\n          alt=\"\"\n          class=\"  img\"\n          width=\"420\"\n          height=\"525\"\n          onerror=\"this.onerror='null';this.src='\\/images\\/80s-hair-model\\/CathyShih_80sHairModel_2_hueaaf4ee0dc43a347f581cd22b4ec8ec0_1115718_420x0_resize_lanczos_3.png';\" /\u003e\n\n        \n      \n      \n    \n    \n  \n\n\n  \n",
+  "imageSM": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n  \n\n  \n  \n    \n      \n    \n\n\n    \n    \n\n\n    \n    \n      \n      \n    \n    \n    \n\n\n    \n    \n      \n      \n        \n        \n        \n        \n        \n        \n          \n          \n          \n          \n        \n\n\n        \n        \n\n\n        \u003cimg\n          \n            src=\"/images/80s-hair-model/CathyShih_80sHairModel_2_hueaaf4ee0dc43a347f581cd22b4ec8ec0_1115718_100x100_fill_q80_h2_lanczos_smart1_3.webp\" loading=\"lazy\" decoding=\"async\"\n          \n\n          alt=\"\"\n          class=\"  img\"\n          width=\"100\"\n          height=\"100\"\n          onerror=\"this.onerror='null';this.src='\\/images\\/80s-hair-model\\/CathyShih_80sHairModel_2_hueaaf4ee0dc43a347f581cd22b4ec8ec0_1115718_100x100_fill_lanczos_smart1_3.png';\" /\u003e\n\n        \n      \n      \n    \n    \n  \n\n\n  \n",
+  "searchKeyword": "",
+  "categories": "頭髮",
+  "tags": "頭髮, unity, shadergraph, Blender",
+  "content":"\rUnity URP中的80年代髮型 我使用 Blender 製作了 80 年代的髮型，並採用了通常與ZBrush相關的常見頭髮創建工作流程。該過程涉及雕刻頭髮形狀並放置髮卡曲線以進行分層-從基礎層到分離層再到過渡層。\n髮卡的創建完全在Blender中完成，利用其頭髮工具、幾何節點和著色器節點。 最終渲染是使用URP中的Unity著色器圖(Shadergraph)創建的自訂各向異性高光頭髮著色器完成的。\n該網格由大約35k個三角形組成。您看到的圖像是 Unity 的直接螢幕截圖，沒有任何額外的編輯或後製。\n"}]
