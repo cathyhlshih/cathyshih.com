@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ink Painting on Cathy Shih&#39;s Portfolio</title>
+    <link>http://localhost:1313/zh/tags/ink-painting/</link>
+    <description>Recent content in Ink Painting on Cathy Shih&#39;s Portfolio</description>
+    <generator>Hugo</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/tags/ink-painting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Traiditional Art Gallery</title>
+      <link>http://localhost:1313/zh/work/classical-art/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/zh/work/classical-art/</guid>
+      <description>Traditional artworks made by me.</description>
+    </item>
+  </channel>
+</rss>
