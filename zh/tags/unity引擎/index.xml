@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Unity引擎 on Cathy Shih's Portfolio</title><link>https://cathyshih.com/zh/tags/unity%E5%BC%95%E6%93%8E/</link><description>Recent content in Unity引擎 on Cathy Shih's Portfolio</description><generator>Hugo</generator><language>zh-TW</language><lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://cathyshih.com/zh/tags/unity%E5%BC%95%E6%93%8E/index.xml" rel="self" type="application/rss+xml"/><item><title>Unity頂點混合紋理映射著色器(Vertex Blend Triplanar Shader)</title><link>https://cathyshih.com/zh/work/unity-urp-vertex-blend-triplanar-shader/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0200</pubDate><guid>https://cathyshih.com/zh/work/unity-urp-vertex-blend-triplanar-shader/</guid><description>我剛開始使用Unit</description></item><item><title>Unity各向異頭髮高光著色器(Anisotropic Highlight Shader)</title><link>https://cathyshih.com/zh/work/unity-urp-anisohighlight-hair-shader/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/zh/work/unity-urp-anisohighlight-hair-shader/</guid><description>下圖左: Unity通</description></item><item><title>80年代髮型在Unity中渲染</title><link>https://cathyshih.com/zh/work/80s-hair-model/</link><pubDate>Wed, 20 Dec 2023 00:00:00 +0100</pubDate><guid>https://cathyshih.com/zh/work/80s-hair-model/</guid><description>我使用 Blender 製作了 80 年代</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unity引擎 on Cathy Shih&#39;s Portfolio</title>
+    <link>http://localhost:1313/zh/tags/unity%E5%BC%95%E6%93%8E/</link>
+    <description>Recent content in Unity引擎 on Cathy Shih&#39;s Portfolio</description>
+    <generator>Hugo</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/tags/unity%E5%BC%95%E6%93%8E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unity頂點混合紋理映射著色器(Vertex Blend Triplanar Shader)</title>
+      <link>http://localhost:1313/zh/work/unity-urp-vertex-blend-triplanar-shader/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/zh/work/unity-urp-vertex-blend-triplanar-shader/</guid>
+      <description>我剛開始使用Unit</description>
+    </item>
+    <item>
+      <title>Unity各向異頭髮高光著色器(Anisotropic Highlight Shader)</title>
+      <link>http://localhost:1313/zh/work/unity-urp-anisohighlight-hair-shader/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/zh/work/unity-urp-anisohighlight-hair-shader/</guid>
+      <description>下圖左: Unity通</description>
+    </item>
+    <item>
+      <title>80年代髮型在Unity中渲染</title>
+      <link>http://localhost:1313/zh/work/80s-hair-model/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/zh/work/80s-hair-model/</guid>
+      <description>我使用 Blender 製作了 80 年代</description>
+    </item>
+  </channel>
+</rss>

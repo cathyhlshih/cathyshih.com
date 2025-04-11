@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shader on Cathy Shih's Portfolio</title><link>https://cathyshih.com/en/tags/shader/</link><description>Recent content in Shader on Cathy Shih's Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://cathyshih.com/en/tags/shader/index.xml" rel="self" type="application/rss+xml"/><item><title>Directional Decal Shader for Environmental Blending In Unity</title><link>https://cathyshih.com/en/work/unity-urp-decal-shader/</link><pubDate>Thu, 12 Dec 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/en/work/unity-urp-decal-shader/</guid><description>When working with assets in Unity projects, I often find that props can feel &amp;ldquo;out of place&amp;rdquo; in the environment.</description></item><item><title>Vertex Blend Triplanar Shader In Unity</title><link>https://cathyshih.com/en/work/unity-urp-vertex-blend-triplanar-shader/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0200</pubDate><guid>https://cathyshih.com/en/work/unity-urp-vertex-blend-triplanar-shader/</guid><description>When I first started using Unity, I was not satisfied with how terrain textures were blended together.</description></item><item><title>Anisotropic Highlight Hair Shader In Unity</title><link>https://cathyshih.com/en/work/unity-urp-anisohighlight-hair-shader/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/en/work/unity-urp-anisohighlight-hair-shader/</guid><description>Hair models are commonly used in games, but Unity&amp;rsquo;s default URP materials did not achieve my desired results for hair shading.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shader on Cathy Shih&#39;s Portfolio</title>
+    <link>http://localhost:1313/en/tags/shader/</link>
+    <description>Recent content in Shader on Cathy Shih&#39;s Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/shader/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Directional Decal Shader for Environmental Blending In Unity</title>
+      <link>http://localhost:1313/en/work/unity-urp-decal-shader/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/en/work/unity-urp-decal-shader/</guid>
+      <description>When working with assets in Unity projects, I often find that props can feel &amp;ldquo;out of place&amp;rdquo; in the environment.</description>
+    </item>
+    <item>
+      <title>Vertex Blend Triplanar Shader In Unity</title>
+      <link>http://localhost:1313/en/work/unity-urp-vertex-blend-triplanar-shader/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/en/work/unity-urp-vertex-blend-triplanar-shader/</guid>
+      <description>When I first started using Unity, I was not satisfied with how terrain textures were blended together.</description>
+    </item>
+    <item>
+      <title>Anisotropic Highlight Hair Shader In Unity</title>
+      <link>http://localhost:1313/en/work/unity-urp-anisohighlight-hair-shader/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/en/work/unity-urp-anisohighlight-hair-shader/</guid>
+      <description>Hair models are commonly used in games, but Unity&amp;rsquo;s default URP materials did not achieve my desired results for hair shading.</description>
+    </item>
+  </channel>
+</rss>
