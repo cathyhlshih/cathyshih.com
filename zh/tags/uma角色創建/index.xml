@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UMA角色創建 on Cathy Shih&#39;s Portfolio</title>
-    <link>http://localhost:1313/zh/tags/uma%E8%A7%92%E8%89%B2%E5%89%B5%E5%BB%BA/</link>
+    <link>https://cathyshih.com/zh/tags/uma%E8%A7%92%E8%89%B2%E5%89%B5%E5%BB%BA/</link>
     <description>Recent content in UMA角色創建 on Cathy Shih&#39;s Portfolio</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
     <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh/tags/uma%E8%A7%92%E8%89%B2%E5%89%B5%E5%BB%BA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cathyshih.com/zh/tags/uma%E8%A7%92%E8%89%B2%E5%89%B5%E5%BB%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unity各向異頭髮高光著色器(Anisotropic Highlight Shader)</title>
-      <link>http://localhost:1313/zh/work/unity-urp-anisohighlight-hair-shader/</link>
+      <link>https://cathyshih.com/zh/work/unity-urp-anisohighlight-hair-shader/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/zh/work/unity-urp-anisohighlight-hair-shader/</guid>
+      <guid>https://cathyshih.com/zh/work/unity-urp-anisohighlight-hair-shader/</guid>
       <description>下圖左: Unity通</description>
     </item>
   </channel>

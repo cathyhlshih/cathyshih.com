@@ -2,299 +2,299 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://cathyshih.com/en/</loc>
     <lastmod>2025-01-04T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/"
+                href="https://cathyshih.com/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/"
+                href="https://cathyshih.com/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/project/</loc>
+    <loc>https://cathyshih.com/en/project/</loc>
     <lastmod>2025-01-04T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/project/"
+                href="https://cathyshih.com/zh/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/"
+                href="https://cathyshih.com/en/project/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/project/webgl-multiplayer-eris-online/</loc>
+    <loc>https://cathyshih.com/en/project/webgl-multiplayer-eris-online/</loc>
     <lastmod>2025-01-04T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/project/webgl-multiplayer-eris-online/"
+                href="https://cathyshih.com/zh/project/webgl-multiplayer-eris-online/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/webgl-multiplayer-eris-online/"
+                href="https://cathyshih.com/en/project/webgl-multiplayer-eris-online/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://cathyshih.com/en/categories/</loc>
     <lastmod>2024-12-12T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/categories/"
+                href="https://cathyshih.com/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/categories/"
+                href="https://cathyshih.com/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/decal/</loc>
+    <loc>https://cathyshih.com/en/tags/decal/</loc>
     <lastmod>2024-12-12T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/tags/decal/"
+                href="https://cathyshih.com/zh/tags/decal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/decal/"
+                href="https://cathyshih.com/en/tags/decal/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/decal/</loc>
+    <loc>https://cathyshih.com/en/categories/decal/</loc>
     <lastmod>2024-12-12T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/categories/decal/"
+                href="https://cathyshih.com/zh/categories/decal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/categories/decal/"
+                href="https://cathyshih.com/en/categories/decal/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/work/unity-urp-decal-shader/</loc>
+    <loc>https://cathyshih.com/en/work/unity-urp-decal-shader/</loc>
     <lastmod>2024-12-12T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/work/unity-urp-decal-shader/"
+                href="https://cathyshih.com/zh/work/unity-urp-decal-shader/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/work/unity-urp-decal-shader/"
+                href="https://cathyshih.com/en/work/unity-urp-decal-shader/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/environment/</loc>
+    <loc>https://cathyshih.com/en/tags/environment/</loc>
     <lastmod>2024-12-12T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/tags/environment/"
+                href="https://cathyshih.com/zh/tags/environment/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/environment/"
+                href="https://cathyshih.com/en/tags/environment/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/shader/</loc>
+    <loc>https://cathyshih.com/en/tags/shader/</loc>
     <lastmod>2024-12-12T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/tags/shader/"
+                href="https://cathyshih.com/zh/tags/shader/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/shader/"
+                href="https://cathyshih.com/en/tags/shader/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/shader/</loc>
+    <loc>https://cathyshih.com/en/categories/shader/</loc>
     <lastmod>2024-12-12T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/categories/shader/"
+                href="https://cathyshih.com/zh/categories/shader/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/categories/shader/"
+                href="https://cathyshih.com/en/categories/shader/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://cathyshih.com/en/tags/</loc>
     <lastmod>2024-12-12T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/tags/"
+                href="https://cathyshih.com/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
+                href="https://cathyshih.com/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/unity/</loc>
+    <loc>https://cathyshih.com/en/tags/unity/</loc>
     <lastmod>2024-12-12T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/tags/unity/"
+                href="https://cathyshih.com/zh/tags/unity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/unity/"
+                href="https://cathyshih.com/en/tags/unity/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/work/</loc>
+    <loc>https://cathyshih.com/en/work/</loc>
     <lastmod>2024-12-12T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/work/"
+                href="https://cathyshih.com/zh/work/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/work/"
+                href="https://cathyshih.com/en/work/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/terrain/</loc>
+    <loc>https://cathyshih.com/en/categories/terrain/</loc>
     <lastmod>2024-04-12T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/work/unity-urp-vertex-blend-triplanar-shader/</loc>
+    <loc>https://cathyshih.com/en/work/unity-urp-vertex-blend-triplanar-shader/</loc>
     <lastmod>2024-04-12T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/work/unity-urp-vertex-blend-triplanar-shader/"
+                href="https://cathyshih.com/zh/work/unity-urp-vertex-blend-triplanar-shader/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/work/unity-urp-vertex-blend-triplanar-shader/"
+                href="https://cathyshih.com/en/work/unity-urp-vertex-blend-triplanar-shader/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/work/unity-urp-anisohighlight-hair-shader/</loc>
+    <loc>https://cathyshih.com/en/work/unity-urp-anisohighlight-hair-shader/</loc>
     <lastmod>2024-01-20T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/work/unity-urp-anisohighlight-hair-shader/"
+                href="https://cathyshih.com/zh/work/unity-urp-anisohighlight-hair-shader/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/work/unity-urp-anisohighlight-hair-shader/"
+                href="https://cathyshih.com/en/work/unity-urp-anisohighlight-hair-shader/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/hair/</loc>
+    <loc>https://cathyshih.com/en/tags/hair/</loc>
     <lastmod>2024-01-20T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/categories/hair/</loc>
+    <loc>https://cathyshih.com/en/categories/hair/</loc>
     <lastmod>2024-01-20T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/uma/</loc>
+    <loc>https://cathyshih.com/en/tags/uma/</loc>
     <lastmod>2024-01-20T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/work/80s-hair-model/</loc>
+    <loc>https://cathyshih.com/en/work/80s-hair-model/</loc>
     <lastmod>2023-12-20T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/work/80s-hair-model/"
+                href="https://cathyshih.com/zh/work/80s-hair-model/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/work/80s-hair-model/"
+                href="https://cathyshih.com/en/work/80s-hair-model/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/blender/</loc>
+    <loc>https://cathyshih.com/en/tags/blender/</loc>
     <lastmod>2023-12-20T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/shadergraph/</loc>
+    <loc>https://cathyshih.com/en/tags/shadergraph/</loc>
     <lastmod>2023-12-20T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/charcoal-painting/</loc>
+    <loc>https://cathyshih.com/en/tags/charcoal-painting/</loc>
     <lastmod>2020-12-20T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/ink-painting/</loc>
+    <loc>https://cathyshih.com/en/tags/ink-painting/</loc>
     <lastmod>2020-12-20T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/pastels/</loc>
+    <loc>https://cathyshih.com/en/tags/pastels/</loc>
     <lastmod>2020-12-20T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/traditional-art/</loc>
+    <loc>https://cathyshih.com/en/tags/traditional-art/</loc>
     <lastmod>2020-12-20T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/categories/traditional-art/</loc>
+    <loc>https://cathyshih.com/en/categories/traditional-art/</loc>
     <lastmod>2020-12-20T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/work/traditional-art/</loc>
+    <loc>https://cathyshih.com/en/work/traditional-art/</loc>
     <lastmod>2020-12-20T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/work/traditional-art/"
+                href="https://cathyshih.com/zh/work/traditional-art/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/work/traditional-art/"
+                href="https://cathyshih.com/en/work/traditional-art/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/watercolor/</loc>
+    <loc>https://cathyshih.com/en/tags/watercolor/</loc>
     <lastmod>2020-12-20T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/contact/</loc>
+    <loc>https://cathyshih.com/en/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/about/</loc>
+    <loc>https://cathyshih.com/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/about/"
+                href="https://cathyshih.com/zh/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/about/"
+                href="https://cathyshih.com/en/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/pages/</loc>
+    <loc>https://cathyshih.com/en/pages/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/pages/"
+                href="https://cathyshih.com/zh/pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/pages/"
+                href="https://cathyshih.com/en/pages/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/privacy-policy/</loc>
+    <loc>https://cathyshih.com/en/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="http://localhost:1313/zh/privacy-policy/"
+                href="https://cathyshih.com/zh/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/privacy-policy/"
+                href="https://cathyshih.com/en/privacy-policy/"
                 />
   </url>
 </urlset>
