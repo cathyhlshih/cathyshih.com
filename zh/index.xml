@@ -1,1 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Work on Cathy Shih's Portfolio</title><link>https://cathyshih.com/zh/</link><description>Recent content in Work on Cathy Shih's Portfolio</description><generator>Hugo</generator><language>zh-TW</language><lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0100</lastBuildDate><atom:link href="https://cathyshih.com/zh/index.xml" rel="self" type="application/rss+xml"/><item><title>WebGL Multiplayer Project Made In Unity</title><link>https://cathyshih.com/zh/project/webgl-multiplayer-project-eris/</link><pubDate>Sat, 04 Jan 2025 00:00:00 +0100</pubDate><guid>https://cathyshih.com/zh/project/webgl-multiplayer-project-eris/</guid><description>Environment &amp; Level Design Intern → Art Direction Assistant | 2022–PresentUnity (URP), WebGLProject Eris is a large-scale multiplayer online role-playing game developed in Unity using the Universal Render Pipeline (URP).</description></item><item><title>Directional Decal Shader for Environmental Blending In Unity</title><link>https://cathyshih.com/zh/work/unity-urp-decal-shader/</link><pubDate>Thu, 12 Dec 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/zh/work/unity-urp-decal-shader/</guid><description>When working with assets in Unity projects, I often find that props can feel &amp;ldquo;out of place&amp;rdquo; in the environment.</description></item><item><title>Unity頂點混合紋理映射著色器(Vertex Blend Triplanar Shader)</title><link>https://cathyshih.com/zh/work/unity-urp-vertex-blend-triplanar-shader/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0200</pubDate><guid>https://cathyshih.com/zh/work/unity-urp-vertex-blend-triplanar-shader/</guid><description>我剛開始使用Unit</description></item><item><title>Unity各向異頭髮高光著色器(Anisotropic Highlight Shader)</title><link>https://cathyshih.com/zh/work/unity-urp-anisohighlight-hair-shader/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/zh/work/unity-urp-anisohighlight-hair-shader/</guid><description>下圖左: Unity通</description></item><item><title>80年代髮型在Unity中渲染</title><link>https://cathyshih.com/zh/work/80s-hair-model/</link><pubDate>Wed, 20 Dec 2023 00:00:00 +0100</pubDate><guid>https://cathyshih.com/zh/work/80s-hair-model/</guid><description>我使用 Blender 製作了 80 年代</description></item><item><title>傳統藝術作品</title><link>https://cathyshih.com/zh/work/traditional-art/</link><pubDate>Sun, 20 Dec 2020 00:00:00 +0100</pubDate><guid>https://cathyshih.com/zh/work/traditional-art/</guid><description>我的傳統藝術作品。</description></item><item><title>隱私政策</title><link>https://cathyshih.com/zh/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cathyshih.com/zh/privacy-policy/</guid><description>生效日期：2024年</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Highlight on Cathy Shih&#39;s Portfolio</title>
+    <link>https://cathyshih.com/zh/</link>
+    <description>Recent content in Project Highlight on Cathy Shih&#39;s Portfolio</description>
+    <generator>Hugo</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0100</lastBuildDate>
+    <atom:link href="https://cathyshih.com/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WebGL Multiplayer Project Made In Unity</title>
+      <link>https://cathyshih.com/zh/project/webgl-multiplayer-eris-online/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0100</pubDate>
+      <guid>https://cathyshih.com/zh/project/webgl-multiplayer-eris-online/</guid>
+      <description>Environment &amp; Level Design Intern → 3D Technical Artist | 2022–Present&#xD;Unity (URP), WebGL&#xD;Eris Online is a large-scale multiplayer online role-playing game developed in Unity using the Universal Render Pipeline (URP).</description>
+    </item>
+    <item>
+      <title>Directional Decal Shader for Environmental Blending In Unity</title>
+      <link>https://cathyshih.com/zh/work/unity-urp-decal-shader/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0100</pubDate>
+      <guid>https://cathyshih.com/zh/work/unity-urp-decal-shader/</guid>
+      <description>When working with assets in Unity projects, I often find that props can feel &amp;ldquo;out of place&amp;rdquo; in the environment.</description>
+    </item>
+    <item>
+      <title>Unity頂點混合紋理映射著色器(Vertex Blend Triplanar Shader)</title>
+      <link>https://cathyshih.com/zh/work/unity-urp-vertex-blend-triplanar-shader/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0200</pubDate>
+      <guid>https://cathyshih.com/zh/work/unity-urp-vertex-blend-triplanar-shader/</guid>
+      <description>我剛開始使用Unit</description>
+    </item>
+    <item>
+      <title>Unity各向異頭髮高光著色器(Anisotropic Highlight Shader)</title>
+      <link>https://cathyshih.com/zh/work/unity-urp-anisohighlight-hair-shader/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>https://cathyshih.com/zh/work/unity-urp-anisohighlight-hair-shader/</guid>
+      <description>下圖左: Unity通</description>
+    </item>
+    <item>
+      <title>80年代髮型在Unity中渲染</title>
+      <link>https://cathyshih.com/zh/work/80s-hair-model/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0100</pubDate>
+      <guid>https://cathyshih.com/zh/work/80s-hair-model/</guid>
+      <description>我使用 Blender 製作了 80 年代</description>
+    </item>
+    <item>
+      <title>傳統藝術作品</title>
+      <link>https://cathyshih.com/zh/work/traditional-art/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>https://cathyshih.com/zh/work/traditional-art/</guid>
+      <description>我的傳統藝術作品。</description>
+    </item>
+    <item>
+      <title>隱私政策</title>
+      <link>https://cathyshih.com/zh/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cathyshih.com/zh/privacy-policy/</guid>
+      <description>生效日期：2024年</description>
+    </item>
+  </channel>
+</rss>

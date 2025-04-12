@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UMA on Cathy Shih's Portfolio</title><link>https://cathyshih.com/en/tags/uma/</link><description>Recent content in UMA on Cathy Shih's Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://cathyshih.com/en/tags/uma/index.xml" rel="self" type="application/rss+xml"/><item><title>Anisotropic Highlight Hair Shader In Unity</title><link>https://cathyshih.com/en/work/unity-urp-anisohighlight-hair-shader/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/en/work/unity-urp-anisohighlight-hair-shader/</guid><description>Hair models are commonly used in games, but Unity&amp;rsquo;s default URP materials did not achieve my desired results for hair shading.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UMA on Cathy Shih&#39;s Portfolio</title>
+    <link>https://cathyshih.com/en/tags/uma/</link>
+    <description>Recent content in UMA on Cathy Shih&#39;s Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0100</lastBuildDate>
+    <atom:link href="https://cathyshih.com/en/tags/uma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anisotropic Highlight Hair Shader In Unity</title>
+      <link>https://cathyshih.com/en/work/unity-urp-anisohighlight-hair-shader/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>https://cathyshih.com/en/work/unity-urp-anisohighlight-hair-shader/</guid>
+      <description>Hair models are commonly used in games, but Unity&amp;rsquo;s default URP materials did not achieve my desired results for hair shading.</description>
+    </item>
+  </channel>
+</rss>
