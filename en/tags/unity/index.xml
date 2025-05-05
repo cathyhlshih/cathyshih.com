@@ -1,1 +1,892 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Unity on Cathy Shih's Portfolio</title><link>https://cathyshih.com/en/tags/unity/</link><description>Recent content in Unity on Cathy Shih's Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://cathyshih.com/en/tags/unity/index.xml" rel="self" type="application/rss+xml"/><item><title>Vertex Paintable Material In Unity</title><link>https://cathyshih.com/en/work/vertex-paintable-material-unity/</link><pubDate>Mon, 30 Dec 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/en/work/vertex-paintable-material-unity/</guid><description>I created a vertex paintable material for Eris Online to allow artists to add surface detailing on dungeon floors.</description></item><item><title>Directional Decal Shader for Environmental Blending In Unity</title><link>https://cathyshih.com/en/work/unity-urp-decal-shader/</link><pubDate>Thu, 12 Dec 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/en/work/unity-urp-decal-shader/</guid><description>When working with assets in Unity projects, I often find that props can feel &amp;ldquo;out of place&amp;rdquo; in the environment.</description></item><item><title>Vertex Blend Triplanar Shader In Unity</title><link>https://cathyshih.com/en/work/unity-urp-vertex-blend-triplanar-shader/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0200</pubDate><guid>https://cathyshih.com/en/work/unity-urp-vertex-blend-triplanar-shader/</guid><description>When I first started using Unity, I was not satisfied with how terrain textures were blended together.</description></item><item><title>Anisotropic Highlight Hair Shader In Unity</title><link>https://cathyshih.com/en/work/unity-urp-anisohighlight-hair-shader/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/en/work/unity-urp-anisohighlight-hair-shader/</guid><description>Hair models are commonly used in games, but Unity&amp;rsquo;s default URP materials did not achieve my desired results for hair shading.</description></item><item><title>Choppy Wavy Hair In Unity</title><link>https://cathyshih.com/en/work/choppy-wavy-hair/</link><pubDate>Wed, 20 Dec 2023 00:00:00 +0100</pubDate><guid>https://cathyshih.com/en/work/choppy-wavy-hair/</guid><description>I crafted a choppy wavy hair using Blender, adopting a common hair creation workflow often associated with ZBrush.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Unity on Cathy Shih's Portfolio</title><link>https://cathyshih.com/en/tags/unity/</link><description>Recent content in Unity on Cathy Shih's Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://cathyshih.com/en/tags/unity/index.xml" rel="self" type="application/rss+xml"/><item><title>Vertex Paintable Material In Unity</title><link>https://cathyshih.com/en/work/vertex-paintable-material-unity/</link><pubDate>Mon, 30 Dec 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/en/work/vertex-paintable-material-unity/</guid><description>&lt;img
+ title=""
+ loading="lazy"
+ decoding="async"
+ class="img "
+ width="1920"
+ height="1080"
+ src="https://cathyshih.com/images/vertex-paintable-material-unity/eris-online-vertex-paintable-2_hu_378307285023b7ae.webp"
+ alt=""
+ onerror="this.onerror='null';this.src='\/images\/vertex-paintable-material-unity\/eris-online-vertex-paintable-2_hu_e72af9bdc98d1e14.png'" />
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+ &lt;script>
+ window.addEventListener("load", (e) => {
+ const lightbox = GLightbox();
+ });
+ &lt;/script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ &lt;img
+ title=""
+ loading="lazy"
+ decoding="async"
+ class="img "
+ width="1920"
+ height="1080"
+ src="https://cathyshih.com/images/vertex-paintable-material-unity/eris-online-vertex-paintable-3_hu_25b645705f81cb6a.webp"
+ alt=""
+ onerror="this.onerror='null';this.src='\/images\/vertex-paintable-material-unity\/eris-online-vertex-paintable-3_hu_1d0fb90f24bf4382.png'" />
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ &lt;img
+ title=""
+ loading="lazy"
+ decoding="async"
+ class="img "
+ width="1920"
+ height="1080"
+ src="https://cathyshih.com/images/vertex-paintable-material-unity/eris-online-vertex-paintable-4_hu_9cc2c9eb8462e1c1.webp"
+ alt=""
+ onerror="this.onerror='null';this.src='\/images\/vertex-paintable-material-unity\/eris-online-vertex-paintable-4_hu_1c093d8d171ea6a4.png'" />
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ &lt;img
+ title=""
+ loading="lazy"
+ decoding="async"
+ class="img "
+ width="1920"
+ height="1080"
+ src="https://cathyshih.com/images/vertex-paintable-material-unity/eris-online-vertex-paintable-5_hu_920311fda2aac962.webp"
+ alt=""
+ onerror="this.onerror='null';this.src='\/images\/vertex-paintable-material-unity\/eris-online-vertex-paintable-5_hu_dafe799cba071b84.png'" />
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+&lt;p>I created a vertex paintable material for Eris Online to allow artists to add surface detailing on dungeon floors.&lt;/p></description></item><item><title>Directional Decal Shader for Environmental Blending In Unity</title><link>https://cathyshih.com/en/work/unity-urp-decal-shader/</link><pubDate>Thu, 12 Dec 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/en/work/unity-urp-decal-shader/</guid><description>&lt;p>When working with assets in Unity projects, I often find that props can feel &amp;ldquo;out of place&amp;rdquo; in the environment. To address this, I created a custom decal shader that helps blend props more naturally into the scene.&lt;/p></description></item><item><title>Vertex Blend Triplanar Shader In Unity</title><link>https://cathyshih.com/en/work/unity-urp-vertex-blend-triplanar-shader/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0200</pubDate><guid>https://cathyshih.com/en/work/unity-urp-vertex-blend-triplanar-shader/</guid><description>&lt;p>When I first started using Unity, I was not satisfied with how terrain textures were blended together. Therefore I put together a vertex blend triplanar shader for Unity URP. It blends multiple textures using vertex colors from meshes, which allows us to bake splat maps onto meshes for direct texture application.&lt;/p></description></item><item><title>Anisotropic Highlight Hair Shader In Unity</title><link>https://cathyshih.com/en/work/unity-urp-anisohighlight-hair-shader/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/en/work/unity-urp-anisohighlight-hair-shader/</guid><description>&lt;img
+ title=""
+ loading="lazy"
+ decoding="async"
+ class="img "
+ width="2400"
+ height="800"
+ src="https://cathyshih.com/images/unity-urp-anisohighlight-hair-shader/CathyShih_ShaderComparisonDemo_hu_4d1e4c7987541d07.webp"
+ alt=""
+ onerror="this.onerror='null';this.src='\/images\/unity-urp-anisohighlight-hair-shader\/CathyShih_ShaderComparisonDemo_hu_1c2c290183c6b387.png'" />
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+ &lt;script>
+ window.addEventListener("load", (e) => {
+ const lightbox = GLightbox();
+ });
+ &lt;/script>
+
+
+&lt;p>Hair models are commonly used in games, but Unity&amp;rsquo;s default URP materials did not achieve my desired results for hair shading. Therefore I put together an Anisotropic Highlight Hair shader to enhance hair rendering in projects.&lt;/p></description></item><item><title>Choppy Wavy Hair In Unity</title><link>https://cathyshih.com/en/work/choppy-wavy-hair/</link><pubDate>Wed, 20 Dec 2023 00:00:00 +0100</pubDate><guid>https://cathyshih.com/en/work/choppy-wavy-hair/</guid><description>&lt;div
+ class=" gallery 
+ zoomable
+ ">
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+
+ &lt;div class="gallery-item">
+ 
+ &lt;a
+ href="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_1.png"
+ style="display: block;"
+ class="glightbox">
+ &lt;img
+ loading="lazy"
+ src="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_1_hu_a4849b45ad3157fb.png"
+ class="img"
+ style="margin: 0;"
+ alt="CathyShih_80sHairModel_1.png"
+ onerror="this.onerror='null';this.src='\/images\/choppy-wavy-hair\/gallery\/CathyShih_80sHairModel_1_hu_a4849b45ad3157fb.png'" />
+ &lt;/a>
+ 
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+
+ &lt;div class="gallery-item">
+ 
+ &lt;a
+ href="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_2.png"
+ style="display: block;"
+ class="glightbox">
+ &lt;img
+ loading="lazy"
+ src="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_2_hu_a5a411f5e65f5986.png"
+ class="img"
+ style="margin: 0;"
+ alt="CathyShih_80sHairModel_2.png"
+ onerror="this.onerror='null';this.src='\/images\/choppy-wavy-hair\/gallery\/CathyShih_80sHairModel_2_hu_a5a411f5e65f5986.png'" />
+ &lt;/a>
+ 
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+
+ &lt;div class="gallery-item">
+ 
+ &lt;a
+ href="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_3.png"
+ style="display: block;"
+ class="glightbox">
+ &lt;img
+ loading="lazy"
+ src="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_3_hu_5d8385664c8d6df6.png"
+ class="img"
+ style="margin: 0;"
+ alt="CathyShih_80sHairModel_3.png"
+ onerror="this.onerror='null';this.src='\/images\/choppy-wavy-hair\/gallery\/CathyShih_80sHairModel_3_hu_5d8385664c8d6df6.png'" />
+ &lt;/a>
+ 
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+
+ &lt;div class="gallery-item">
+ 
+ &lt;a
+ href="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_4.png"
+ style="display: block;"
+ class="glightbox">
+ &lt;img
+ loading="lazy"
+ src="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_4_hu_5fc70eb21d34b57.png"
+ class="img"
+ style="margin: 0;"
+ alt="CathyShih_80sHairModel_4.png"
+ onerror="this.onerror='null';this.src='\/images\/choppy-wavy-hair\/gallery\/CathyShih_80sHairModel_4_hu_5fc70eb21d34b57.png'" />
+ &lt;/a>
+ 
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+
+ &lt;div class="gallery-item">
+ 
+ &lt;a
+ href="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_Meshes.png"
+ style="display: block;"
+ class="glightbox">
+ &lt;img
+ loading="lazy"
+ src="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_Meshes_hu_e8e17c46a71bd437.png"
+ class="img"
+ style="margin: 0;"
+ alt="CathyShih_80sHairModel_Meshes.png"
+ onerror="this.onerror='null';this.src='\/images\/choppy-wavy-hair\/gallery\/CathyShih_80sHairModel_Meshes_hu_e8e17c46a71bd437.png'" />
+ &lt;/a>
+ 
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+
+ &lt;div class="gallery-item">
+ 
+ &lt;a
+ href="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_TexturesDisplay.png"
+ style="display: block;"
+ class="glightbox">
+ &lt;img
+ loading="lazy"
+ src="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_TexturesDisplay_hu_20479d8f01a3e4e1.png"
+ class="img"
+ style="margin: 0;"
+ alt="CathyShih_80sHairModel_TexturesDisplay.png"
+ onerror="this.onerror='null';this.src='\/images\/choppy-wavy-hair\/gallery\/CathyShih_80sHairModel_TexturesDisplay_hu_20479d8f01a3e4e1.png'" />
+ &lt;/a>
+ 
+ &lt;/div>
+ 
+ 
+ 
+ &lt;/div>
+
+ 
+
+&lt;p>I crafted a choppy wavy hair using Blender, adopting a common hair creation workflow often associated with ZBrush. The process involved sculpting the hair shape and placing hair card curves for with layers – from the base layer to breakups to transitional layer.&lt;/p></description></item></channel></rss>

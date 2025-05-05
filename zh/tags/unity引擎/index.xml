@@ -1,1 +1,641 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Unity引擎 on Cathy Shih's Portfolio</title><link>https://cathyshih.com/zh/tags/unity%E5%BC%95%E6%93%8E/</link><description>Recent content in Unity引擎 on Cathy Shih's Portfolio</description><generator>Hugo</generator><language>zh-TW</language><lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://cathyshih.com/zh/tags/unity%E5%BC%95%E6%93%8E/index.xml" rel="self" type="application/rss+xml"/><item><title>Unity頂點混合紋理映射著色器(Vertex Blend Triplanar Shader)</title><link>https://cathyshih.com/zh/work/unity-urp-vertex-blend-triplanar-shader/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0200</pubDate><guid>https://cathyshih.com/zh/work/unity-urp-vertex-blend-triplanar-shader/</guid><description>我剛開始使用Unit</description></item><item><title>Unity各向異頭髮高光著色器(Anisotropic Highlight Shader)</title><link>https://cathyshih.com/zh/work/unity-urp-anisohighlight-hair-shader/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/zh/work/unity-urp-anisohighlight-hair-shader/</guid><description>下圖左: Unity通</description></item><item><title>80年代髮型在Unity中渲染</title><link>https://cathyshih.com/zh/work/choppy-wavy-hair/</link><pubDate>Wed, 20 Dec 2023 00:00:00 +0100</pubDate><guid>https://cathyshih.com/zh/work/choppy-wavy-hair/</guid><description>我使用 Blender 製作了 80 年代</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Unity引擎 on Cathy Shih's Portfolio</title><link>https://cathyshih.com/zh/tags/unity%E5%BC%95%E6%93%8E/</link><description>Recent content in Unity引擎 on Cathy Shih's Portfolio</description><generator>Hugo</generator><language>zh-TW</language><lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://cathyshih.com/zh/tags/unity%E5%BC%95%E6%93%8E/index.xml" rel="self" type="application/rss+xml"/><item><title>Unity頂點混合紋理映射著色器(Vertex Blend Triplanar Shader)</title><link>https://cathyshih.com/zh/work/unity-urp-vertex-blend-triplanar-shader/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0200</pubDate><guid>https://cathyshih.com/zh/work/unity-urp-vertex-blend-triplanar-shader/</guid><description>&lt;p>我剛開始使用Unity時，對地形紋理混合的方式並不滿意。因此我開發了這個頂點混合紋理映射著色器(Vertex Blend Triplanar Shader)，讓我可以將Splat map貼圖烤到模型上來直接套用紋理。&lt;/p></description></item><item><title>Unity各向異頭髮高光著色器(Anisotropic Highlight Shader)</title><link>https://cathyshih.com/zh/work/unity-urp-anisohighlight-hair-shader/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/zh/work/unity-urp-anisohighlight-hair-shader/</guid><description>&lt;h6 id="下圖左-unity通用渲染管線預設lit著色器-中-uma角色創建建議使用的speedtree8著色器-右-我的著色器">下圖左: Unity通用渲染管線預設Lit著色器; 中: UMA角色創建建議使用的SpeedTree8著色器; 右: 我的著色器&lt;/h6>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ &lt;img
+ title=""
+ loading="lazy"
+ decoding="async"
+ class="img "
+ width="2400"
+ height="800"
+ src="https://cathyshih.com/images/unity-urp-anisohighlight-hair-shader/CathyShih_ShaderComparisonDemo_hu_4d1e4c7987541d07.webp"
+ alt=""
+ onerror="this.onerror='null';this.src='\/images\/unity-urp-anisohighlight-hair-shader\/CathyShih_ShaderComparisonDemo_hu_1c2c290183c6b387.png'" />
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+ &lt;script>
+ window.addEventListener("load", (e) => {
+ const lightbox = GLightbox();
+ });
+ &lt;/script>
+
+
+&lt;p>頭髮模型在遊戲中很常用，但是Unity預設的URP材質對於頭髮著色並沒有達到我想要的效果。因此，我開發了這個各向異性高光頭髮著色器來增強專案中的頭髮渲染。&lt;/p></description></item><item><title>80年代髮型在Unity中渲染</title><link>https://cathyshih.com/zh/work/choppy-wavy-hair/</link><pubDate>Wed, 20 Dec 2023 00:00:00 +0100</pubDate><guid>https://cathyshih.com/zh/work/choppy-wavy-hair/</guid><description>&lt;div
+ class=" gallery 
+ zoomable
+ ">
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+
+ &lt;div class="gallery-item">
+ 
+ &lt;a
+ href="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_1.png"
+ style="display: block;"
+ class="glightbox">
+ &lt;img
+ loading="lazy"
+ src="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_1_hu_a4849b45ad3157fb.png"
+ class="img"
+ style="margin: 0;"
+ alt="CathyShih_80sHairModel_1.png"
+ onerror="this.onerror='null';this.src='\/images\/choppy-wavy-hair\/gallery\/CathyShih_80sHairModel_1_hu_a4849b45ad3157fb.png'" />
+ &lt;/a>
+ 
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+
+ &lt;div class="gallery-item">
+ 
+ &lt;a
+ href="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_2.png"
+ style="display: block;"
+ class="glightbox">
+ &lt;img
+ loading="lazy"
+ src="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_2_hu_a5a411f5e65f5986.png"
+ class="img"
+ style="margin: 0;"
+ alt="CathyShih_80sHairModel_2.png"
+ onerror="this.onerror='null';this.src='\/images\/choppy-wavy-hair\/gallery\/CathyShih_80sHairModel_2_hu_a5a411f5e65f5986.png'" />
+ &lt;/a>
+ 
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+
+ &lt;div class="gallery-item">
+ 
+ &lt;a
+ href="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_3.png"
+ style="display: block;"
+ class="glightbox">
+ &lt;img
+ loading="lazy"
+ src="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_3_hu_5d8385664c8d6df6.png"
+ class="img"
+ style="margin: 0;"
+ alt="CathyShih_80sHairModel_3.png"
+ onerror="this.onerror='null';this.src='\/images\/choppy-wavy-hair\/gallery\/CathyShih_80sHairModel_3_hu_5d8385664c8d6df6.png'" />
+ &lt;/a>
+ 
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+
+ &lt;div class="gallery-item">
+ 
+ &lt;a
+ href="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_4.png"
+ style="display: block;"
+ class="glightbox">
+ &lt;img
+ loading="lazy"
+ src="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_4_hu_5fc70eb21d34b57.png"
+ class="img"
+ style="margin: 0;"
+ alt="CathyShih_80sHairModel_4.png"
+ onerror="this.onerror='null';this.src='\/images\/choppy-wavy-hair\/gallery\/CathyShih_80sHairModel_4_hu_5fc70eb21d34b57.png'" />
+ &lt;/a>
+ 
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+
+ &lt;div class="gallery-item">
+ 
+ &lt;a
+ href="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_Meshes.png"
+ style="display: block;"
+ class="glightbox">
+ &lt;img
+ loading="lazy"
+ src="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_Meshes_hu_e8e17c46a71bd437.png"
+ class="img"
+ style="margin: 0;"
+ alt="CathyShih_80sHairModel_Meshes.png"
+ onerror="this.onerror='null';this.src='\/images\/choppy-wavy-hair\/gallery\/CathyShih_80sHairModel_Meshes_hu_e8e17c46a71bd437.png'" />
+ &lt;/a>
+ 
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+
+ &lt;div class="gallery-item">
+ 
+ &lt;a
+ href="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_TexturesDisplay.png"
+ style="display: block;"
+ class="glightbox">
+ &lt;img
+ loading="lazy"
+ src="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_TexturesDisplay_hu_20479d8f01a3e4e1.png"
+ class="img"
+ style="margin: 0;"
+ alt="CathyShih_80sHairModel_TexturesDisplay.png"
+ onerror="this.onerror='null';this.src='\/images\/choppy-wavy-hair\/gallery\/CathyShih_80sHairModel_TexturesDisplay_hu_20479d8f01a3e4e1.png'" />
+ &lt;/a>
+ 
+ &lt;/div>
+ 
+ 
+ 
+ &lt;/div>
+
+ 
+
+&lt;p>我使用 Blender 製作了 80 年代的髮型，並採用了通常與ZBrush相關的常見頭髮創建工作流程。該過程涉及雕刻頭髮形狀並放置髮卡曲線以進行分層-從基礎層到分離層再到過渡層。&lt;/p></description></item></channel></rss>

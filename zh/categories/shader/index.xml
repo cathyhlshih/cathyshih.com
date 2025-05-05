@@ -1,1 +1,332 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shader on Cathy Shih's Portfolio</title><link>https://cathyshih.com/zh/categories/shader/</link><description>Recent content in Shader on Cathy Shih's Portfolio</description><generator>Hugo</generator><language>zh-TW</language><lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://cathyshih.com/zh/categories/shader/index.xml" rel="self" type="application/rss+xml"/><item><title>Vertex Paintable Material In Unity</title><link>https://cathyshih.com/zh/work/vertex-paintable-material-unity/</link><pubDate>Mon, 30 Dec 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/zh/work/vertex-paintable-material-unity/</guid><description>I created a vertex paintable material for Eris Online to allow artists to add surface detailing on dungeon floors.</description></item><item><title>Directional Decal Shader for Environmental Blending In Unity</title><link>https://cathyshih.com/zh/work/unity-urp-decal-shader/</link><pubDate>Thu, 12 Dec 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/zh/work/unity-urp-decal-shader/</guid><description>When working with assets in Unity projects, I often find that props can feel &amp;ldquo;out of place&amp;rdquo; in the environment.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shader on Cathy Shih's Portfolio</title><link>https://cathyshih.com/zh/categories/shader/</link><description>Recent content in Shader on Cathy Shih's Portfolio</description><generator>Hugo</generator><language>zh-TW</language><lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://cathyshih.com/zh/categories/shader/index.xml" rel="self" type="application/rss+xml"/><item><title>Vertex Paintable Material In Unity</title><link>https://cathyshih.com/zh/work/vertex-paintable-material-unity/</link><pubDate>Mon, 30 Dec 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/zh/work/vertex-paintable-material-unity/</guid><description>&lt;img
+ title=""
+ loading="lazy"
+ decoding="async"
+ class="img "
+ width="1920"
+ height="1080"
+ src="https://cathyshih.com/images/vertex-paintable-material-unity/eris-online-vertex-paintable-2_hu_378307285023b7ae.webp"
+ alt=""
+ onerror="this.onerror='null';this.src='\/images\/vertex-paintable-material-unity\/eris-online-vertex-paintable-2_hu_e72af9bdc98d1e14.png'" />
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+ &lt;script>
+ window.addEventListener("load", (e) => {
+ const lightbox = GLightbox();
+ });
+ &lt;/script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ &lt;img
+ title=""
+ loading="lazy"
+ decoding="async"
+ class="img "
+ width="1920"
+ height="1080"
+ src="https://cathyshih.com/images/vertex-paintable-material-unity/eris-online-vertex-paintable-3_hu_25b645705f81cb6a.webp"
+ alt=""
+ onerror="this.onerror='null';this.src='\/images\/vertex-paintable-material-unity\/eris-online-vertex-paintable-3_hu_1d0fb90f24bf4382.png'" />
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ &lt;img
+ title=""
+ loading="lazy"
+ decoding="async"
+ class="img "
+ width="1920"
+ height="1080"
+ src="https://cathyshih.com/images/vertex-paintable-material-unity/eris-online-vertex-paintable-4_hu_9cc2c9eb8462e1c1.webp"
+ alt=""
+ onerror="this.onerror='null';this.src='\/images\/vertex-paintable-material-unity\/eris-online-vertex-paintable-4_hu_1c093d8d171ea6a4.png'" />
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ &lt;img
+ title=""
+ loading="lazy"
+ decoding="async"
+ class="img "
+ width="1920"
+ height="1080"
+ src="https://cathyshih.com/images/vertex-paintable-material-unity/eris-online-vertex-paintable-5_hu_920311fda2aac962.webp"
+ alt=""
+ onerror="this.onerror='null';this.src='\/images\/vertex-paintable-material-unity\/eris-online-vertex-paintable-5_hu_dafe799cba071b84.png'" />
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+&lt;p>I created a vertex paintable material for Eris Online to allow artists to add surface detailing on dungeon floors.&lt;/p></description></item><item><title>Directional Decal Shader for Environmental Blending In Unity</title><link>https://cathyshih.com/zh/work/unity-urp-decal-shader/</link><pubDate>Thu, 12 Dec 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/zh/work/unity-urp-decal-shader/</guid><description>&lt;p>When working with assets in Unity projects, I often find that props can feel &amp;ldquo;out of place&amp;rdquo; in the environment. To address this, I created a custom decal shader that helps blend props more naturally into the scene.&lt;/p></description></item></channel></rss>

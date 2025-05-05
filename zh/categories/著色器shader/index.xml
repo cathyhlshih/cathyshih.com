@@ -1,1 +1,109 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>著色器(Shader) on Cathy Shih's Portfolio</title><link>https://cathyshih.com/zh/categories/%E8%91%97%E8%89%B2%E5%99%A8shader/</link><description>Recent content in 著色器(Shader) on Cathy Shih's Portfolio</description><generator>Hugo</generator><language>zh-TW</language><lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://cathyshih.com/zh/categories/%E8%91%97%E8%89%B2%E5%99%A8shader/index.xml" rel="self" type="application/rss+xml"/><item><title>Unity頂點混合紋理映射著色器(Vertex Blend Triplanar Shader)</title><link>https://cathyshih.com/zh/work/unity-urp-vertex-blend-triplanar-shader/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0200</pubDate><guid>https://cathyshih.com/zh/work/unity-urp-vertex-blend-triplanar-shader/</guid><description>我剛開始使用Unit</description></item><item><title>Unity各向異頭髮高光著色器(Anisotropic Highlight Shader)</title><link>https://cathyshih.com/zh/work/unity-urp-anisohighlight-hair-shader/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/zh/work/unity-urp-anisohighlight-hair-shader/</guid><description>下圖左: Unity通</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>著色器(Shader) on Cathy Shih's Portfolio</title><link>https://cathyshih.com/zh/categories/%E8%91%97%E8%89%B2%E5%99%A8shader/</link><description>Recent content in 著色器(Shader) on Cathy Shih's Portfolio</description><generator>Hugo</generator><language>zh-TW</language><lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0200</lastBuildDate><atom:link href="https://cathyshih.com/zh/categories/%E8%91%97%E8%89%B2%E5%99%A8shader/index.xml" rel="self" type="application/rss+xml"/><item><title>Unity頂點混合紋理映射著色器(Vertex Blend Triplanar Shader)</title><link>https://cathyshih.com/zh/work/unity-urp-vertex-blend-triplanar-shader/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0200</pubDate><guid>https://cathyshih.com/zh/work/unity-urp-vertex-blend-triplanar-shader/</guid><description>&lt;p>我剛開始使用Unity時，對地形紋理混合的方式並不滿意。因此我開發了這個頂點混合紋理映射著色器(Vertex Blend Triplanar Shader)，讓我可以將Splat map貼圖烤到模型上來直接套用紋理。&lt;/p></description></item><item><title>Unity各向異頭髮高光著色器(Anisotropic Highlight Shader)</title><link>https://cathyshih.com/zh/work/unity-urp-anisohighlight-hair-shader/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/zh/work/unity-urp-anisohighlight-hair-shader/</guid><description>&lt;h6 id="下圖左-unity通用渲染管線預設lit著色器-中-uma角色創建建議使用的speedtree8著色器-右-我的著色器">下圖左: Unity通用渲染管線預設Lit著色器; 中: UMA角色創建建議使用的SpeedTree8著色器; 右: 我的著色器&lt;/h6>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ &lt;img
+ title=""
+ loading="lazy"
+ decoding="async"
+ class="img "
+ width="2400"
+ height="800"
+ src="https://cathyshih.com/images/unity-urp-anisohighlight-hair-shader/CathyShih_ShaderComparisonDemo_hu_4d1e4c7987541d07.webp"
+ alt=""
+ onerror="this.onerror='null';this.src='\/images\/unity-urp-anisohighlight-hair-shader\/CathyShih_ShaderComparisonDemo_hu_1c2c290183c6b387.png'" />
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+ &lt;script>
+ window.addEventListener("load", (e) => {
+ const lightbox = GLightbox();
+ });
+ &lt;/script>
+
+
+&lt;p>頭髮模型在遊戲中很常用，但是Unity預設的URP材質對於頭髮著色並沒有達到我想要的效果。因此，我開發了這個各向異性高光頭髮著色器來增強專案中的頭髮渲染。&lt;/p></description></item></channel></rss>
