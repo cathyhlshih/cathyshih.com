@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project Highlight on Cathy Shih's Portfolio</title><link>https://cathyshih.com/en/</link><description>Recent content in Project Highlight on Cathy Shih's Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0100</lastBuildDate><atom:link href="https://cathyshih.com/en/index.xml" rel="self" type="application/rss+xml"/><item><title>WebGL Multiplayer Project Made In Unity</title><link>https://cathyshih.com/en/project/webgl-multiplayer-eris-online/</link><pubDate>Sat, 04 Jan 2025 00:00:00 +0100</pubDate><guid>https://cathyshih.com/en/project/webgl-multiplayer-eris-online/</guid><description>&lt;i>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project Highlight on Cathy Shih's Portfolio</title><link>https://portfolio.cathyshih.com/en/</link><description>Recent content in Project Highlight on Cathy Shih's Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0100</lastBuildDate><atom:link href="https://portfolio.cathyshih.com/en/index.xml" rel="self" type="application/rss+xml"/><item><title>WebGL Multiplayer Project Made In Unity</title><link>https://portfolio.cathyshih.com/en/project/webgl-multiplayer-eris-online/</link><pubDate>Sat, 04 Jan 2025 00:00:00 +0100</pubDate><guid>https://portfolio.cathyshih.com/en/project/webgl-multiplayer-eris-online/</guid><description>&lt;i>
 Environment &amp; Level Design Intern → 3D Technical Artist | 2022–Present
 &lt;br>
 Unity (URP), WebGL
 &lt;/i>
-&lt;p>Eris Online is a large-scale multiplayer online role-playing game developed in Unity using the Universal Render Pipeline (URP). The project aims to revive and evolve early 2000s classic MMOs, blending nostalgia with modern gameplay.&lt;/p></description></item><item><title>Vertex Paintable Material In Unity</title><link>https://cathyshih.com/en/work/vertex-paintable-material-unity/</link><pubDate>Mon, 30 Dec 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/en/work/vertex-paintable-material-unity/</guid><description>&lt;img
+&lt;p>Eris Online is a large-scale multiplayer online role-playing game developed in Unity using the Universal Render Pipeline (URP). The project aims to revive and evolve early 2000s classic MMOs, blending nostalgia with modern gameplay.&lt;/p></description></item><item><title>Vertex Paintable Material In Unity</title><link>https://portfolio.cathyshih.com/en/work/vertex-paintable-material-unity/</link><pubDate>Mon, 30 Dec 2024 00:00:00 +0100</pubDate><guid>https://portfolio.cathyshih.com/en/work/vertex-paintable-material-unity/</guid><description>&lt;img
  title=""
  loading="lazy"
  decoding="async"
  class="img "
  width="1920"
  height="1080"
- src="https://cathyshih.com/images/vertex-paintable-material-unity/eris-online-vertex-paintable-2_hu_378307285023b7ae.webp"
+ src="https://portfolio.cathyshih.com/images/vertex-paintable-material-unity/eris-online-vertex-paintable-2_hu_378307285023b7ae.webp"
  alt=""
  onerror="this.onerror='null';this.src='\/images\/vertex-paintable-material-unity\/eris-online-vertex-paintable-2_hu_e72af9bdc98d1e14.png'" />
  
@@ -117,7 +117,7 @@ Unity (URP), WebGL
  class="img "
  width="1920"
  height="1080"
- src="https://cathyshih.com/images/vertex-paintable-material-unity/eris-online-vertex-paintable-3_hu_25b645705f81cb6a.webp"
+ src="https://portfolio.cathyshih.com/images/vertex-paintable-material-unity/eris-online-vertex-paintable-3_hu_25b645705f81cb6a.webp"
  alt=""
  onerror="this.onerror='null';this.src='\/images\/vertex-paintable-material-unity\/eris-online-vertex-paintable-3_hu_1d0fb90f24bf4382.png'" />
  
@@ -218,7 +218,7 @@ Unity (URP), WebGL
  class="img "
  width="1920"
  height="1080"
- src="https://cathyshih.com/images/vertex-paintable-material-unity/eris-online-vertex-paintable-4_hu_9cc2c9eb8462e1c1.webp"
+ src="https://portfolio.cathyshih.com/images/vertex-paintable-material-unity/eris-online-vertex-paintable-4_hu_9cc2c9eb8462e1c1.webp"
  alt=""
  onerror="this.onerror='null';this.src='\/images\/vertex-paintable-material-unity\/eris-online-vertex-paintable-4_hu_1c093d8d171ea6a4.png'" />
  
@@ -319,7 +319,7 @@ Unity (URP), WebGL
  class="img "
  width="1920"
  height="1080"
- src="https://cathyshih.com/images/vertex-paintable-material-unity/eris-online-vertex-paintable-5_hu_920311fda2aac962.webp"
+ src="https://portfolio.cathyshih.com/images/vertex-paintable-material-unity/eris-online-vertex-paintable-5_hu_920311fda2aac962.webp"
  alt=""
  onerror="this.onerror='null';this.src='\/images\/vertex-paintable-material-unity\/eris-online-vertex-paintable-5_hu_dafe799cba071b84.png'" />
  
@@ -334,14 +334,14 @@ Unity (URP), WebGL
 
 
 
-&lt;p>I created a vertex paintable material for Eris Online to allow artists to add surface detailing on dungeon floors.&lt;/p></description></item><item><title>Directional Decal Shader for Environmental Blending In Unity</title><link>https://cathyshih.com/en/work/unity-urp-decal-shader/</link><pubDate>Thu, 12 Dec 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/en/work/unity-urp-decal-shader/</guid><description>&lt;p>When working with assets in Unity projects, I often find that props can feel &amp;ldquo;out of place&amp;rdquo; in the environment. To address this, I created a custom decal shader that helps blend props more naturally into the scene.&lt;/p></description></item><item><title>Vertex Blend Triplanar Shader In Unity</title><link>https://cathyshih.com/en/work/unity-urp-vertex-blend-triplanar-shader/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0200</pubDate><guid>https://cathyshih.com/en/work/unity-urp-vertex-blend-triplanar-shader/</guid><description>&lt;p>When I first started using Unity, I was not satisfied with how terrain textures were blended together. Therefore I put together a vertex blend triplanar shader for Unity URP. It blends multiple textures using vertex colors from meshes, which allows us to bake splat maps onto meshes for direct texture application.&lt;/p></description></item><item><title>Anisotropic Highlight Hair Shader In Unity</title><link>https://cathyshih.com/en/work/unity-urp-anisohighlight-hair-shader/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0100</pubDate><guid>https://cathyshih.com/en/work/unity-urp-anisohighlight-hair-shader/</guid><description>&lt;img
+&lt;p>I created a vertex paintable material for Eris Online to allow artists to add surface detailing on dungeon floors.&lt;/p></description></item><item><title>Directional Decal Shader for Environmental Blending In Unity</title><link>https://portfolio.cathyshih.com/en/work/unity-urp-decal-shader/</link><pubDate>Thu, 12 Dec 2024 00:00:00 +0100</pubDate><guid>https://portfolio.cathyshih.com/en/work/unity-urp-decal-shader/</guid><description>&lt;p>When working with assets in Unity projects, I often find that props can feel &amp;ldquo;out of place&amp;rdquo; in the environment. To address this, I created a custom decal shader that helps blend props more naturally into the scene.&lt;/p></description></item><item><title>Vertex Blend Triplanar Shader In Unity</title><link>https://portfolio.cathyshih.com/en/work/unity-urp-vertex-blend-triplanar-shader/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0200</pubDate><guid>https://portfolio.cathyshih.com/en/work/unity-urp-vertex-blend-triplanar-shader/</guid><description>&lt;p>When I first started using Unity, I was not satisfied with how terrain textures were blended together. Therefore I put together a vertex blend triplanar shader for Unity URP. It blends multiple textures using vertex colors from meshes, which allows us to bake splat maps onto meshes for direct texture application.&lt;/p></description></item><item><title>Anisotropic Highlight Hair Shader In Unity</title><link>https://portfolio.cathyshih.com/en/work/unity-urp-anisohighlight-hair-shader/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0100</pubDate><guid>https://portfolio.cathyshih.com/en/work/unity-urp-anisohighlight-hair-shader/</guid><description>&lt;img
  title=""
  loading="lazy"
  decoding="async"
  class="img "
  width="2400"
  height="800"
- src="https://cathyshih.com/images/unity-urp-anisohighlight-hair-shader/CathyShih_ShaderComparisonDemo_hu_4d1e4c7987541d07.webp"
+ src="https://portfolio.cathyshih.com/images/unity-urp-anisohighlight-hair-shader/CathyShih_ShaderComparisonDemo_hu_4d1e4c7987541d07.webp"
  alt=""
  onerror="this.onerror='null';this.src='\/images\/unity-urp-anisohighlight-hair-shader\/CathyShih_ShaderComparisonDemo_hu_1c2c290183c6b387.png'" />
  
@@ -362,7 +362,7 @@ Unity (URP), WebGL
  &lt;/script>
 
 
-&lt;p>Hair models are commonly used in games, but Unity&amp;rsquo;s default URP materials did not achieve my desired results for hair shading. Therefore I put together an Anisotropic Highlight Hair shader to enhance hair rendering in projects.&lt;/p></description></item><item><title>Choppy Wavy Hair In Unity</title><link>https://cathyshih.com/en/work/choppy-wavy-hair/</link><pubDate>Wed, 20 Dec 2023 00:00:00 +0100</pubDate><guid>https://cathyshih.com/en/work/choppy-wavy-hair/</guid><description>&lt;div
+&lt;p>Hair models are commonly used in games, but Unity&amp;rsquo;s default URP materials did not achieve my desired results for hair shading. Therefore I put together an Anisotropic Highlight Hair shader to enhance hair rendering in projects.&lt;/p></description></item><item><title>Choppy Wavy Hair In Unity</title><link>https://portfolio.cathyshih.com/en/work/choppy-wavy-hair/</link><pubDate>Wed, 20 Dec 2023 00:00:00 +0100</pubDate><guid>https://portfolio.cathyshih.com/en/work/choppy-wavy-hair/</guid><description>&lt;div
  class=" gallery 
  zoomable
  ">
@@ -439,12 +439,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_1.png"
+ href="https://portfolio.cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_1.png"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_1_hu_a4849b45ad3157fb.png"
+ src="https://portfolio.cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_1_hu_a4849b45ad3157fb.png"
  class="img"
  style="margin: 0;"
  alt="CathyShih_80sHairModel_1.png"
@@ -526,12 +526,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_2.png"
+ href="https://portfolio.cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_2.png"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_2_hu_a5a411f5e65f5986.png"
+ src="https://portfolio.cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_2_hu_a5a411f5e65f5986.png"
  class="img"
  style="margin: 0;"
  alt="CathyShih_80sHairModel_2.png"
@@ -613,12 +613,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_3.png"
+ href="https://portfolio.cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_3.png"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_3_hu_5d8385664c8d6df6.png"
+ src="https://portfolio.cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_3_hu_5d8385664c8d6df6.png"
  class="img"
  style="margin: 0;"
  alt="CathyShih_80sHairModel_3.png"
@@ -700,12 +700,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_4.png"
+ href="https://portfolio.cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_4.png"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_4_hu_5fc70eb21d34b57.png"
+ src="https://portfolio.cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_4_hu_5fc70eb21d34b57.png"
  class="img"
  style="margin: 0;"
  alt="CathyShih_80sHairModel_4.png"
@@ -787,12 +787,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_Meshes.png"
+ href="https://portfolio.cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_Meshes.png"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_Meshes_hu_e8e17c46a71bd437.png"
+ src="https://portfolio.cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_Meshes_hu_e8e17c46a71bd437.png"
  class="img"
  style="margin: 0;"
  alt="CathyShih_80sHairModel_Meshes.png"
@@ -874,12 +874,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_TexturesDisplay.png"
+ href="https://portfolio.cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_TexturesDisplay.png"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_TexturesDisplay_hu_20479d8f01a3e4e1.png"
+ src="https://portfolio.cathyshih.com/images/choppy-wavy-hair/gallery/CathyShih_80sHairModel_TexturesDisplay_hu_20479d8f01a3e4e1.png"
  class="img"
  style="margin: 0;"
  alt="CathyShih_80sHairModel_TexturesDisplay.png"
@@ -894,7 +894,7 @@ Unity (URP), WebGL
 
  
 
-&lt;p>I crafted a choppy wavy hair using Blender, adopting a common hair creation workflow often associated with ZBrush. The process involved sculpting the hair shape and placing hair card curves for with layers – from the base layer to breakups to transitional layer.&lt;/p></description></item><item><title>Traditional Artworks</title><link>https://cathyshih.com/en/work/traditional-art/</link><pubDate>Sun, 20 Dec 2020 00:00:00 +0100</pubDate><guid>https://cathyshih.com/en/work/traditional-art/</guid><description>&lt;div
+&lt;p>I crafted a choppy wavy hair using Blender, adopting a common hair creation workflow often associated with ZBrush. The process involved sculpting the hair shape and placing hair card curves for with layers – from the base layer to breakups to transitional layer.&lt;/p></description></item><item><title>How to build an Application with modern Technology</title><link>https://portfolio.cathyshih.com/en/blog/post-1/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>https://portfolio.cathyshih.com/en/blog/post-1/</guid><description>&lt;p>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p></description></item><item><title>How to build an Application with modern Technology</title><link>https://portfolio.cathyshih.com/en/blog/post-2/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>https://portfolio.cathyshih.com/en/blog/post-2/</guid><description>&lt;p>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p></description></item><item><title>How to build an Application with modern Technology</title><link>https://portfolio.cathyshih.com/en/blog/post-3/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>https://portfolio.cathyshih.com/en/blog/post-3/</guid><description>&lt;p>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p></description></item><item><title>How to build an Application with modern Technology</title><link>https://portfolio.cathyshih.com/en/blog/post-4/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>https://portfolio.cathyshih.com/en/blog/post-4/</guid><description>&lt;p>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p></description></item><item><title>Traditional Artworks</title><link>https://portfolio.cathyshih.com/en/work/traditional-art/</link><pubDate>Sun, 20 Dec 2020 00:00:00 +0100</pubDate><guid>https://portfolio.cathyshih.com/en/work/traditional-art/</guid><description>&lt;div
  class=" gallery 
  zoomable
  ">
@@ -971,12 +971,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/traditional-art/CathyShih_TraditionalArtwork-thumbnail.png"
+ href="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_TraditionalArtwork-thumbnail.png"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/traditional-art/CathyShih_TraditionalArtwork-thumbnail_hu_278cf1f40ec79965.png"
+ src="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_TraditionalArtwork-thumbnail_hu_278cf1f40ec79965.png"
  class="img"
  style="margin: 0;"
  alt="CathyShih_TraditionalArtwork-thumbnail.png"
@@ -1058,12 +1058,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/traditional-art/CathyShih_Abstract_Charcoal_1.jpg"
+ href="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_Abstract_Charcoal_1.jpg"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/traditional-art/CathyShih_Abstract_Charcoal_1_hu_42f643cbda3f3f1e.jpg"
+ src="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_Abstract_Charcoal_1_hu_42f643cbda3f3f1e.jpg"
  class="img"
  style="margin: 0;"
  alt="CathyShih_Abstract_Charcoal_1.jpg"
@@ -1145,12 +1145,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/traditional-art/CathyShih_Figure_Charcoal_1.jpg"
+ href="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_Figure_Charcoal_1.jpg"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/traditional-art/CathyShih_Figure_Charcoal_1_hu_56742ab47121f5fc.jpg"
+ src="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_Figure_Charcoal_1_hu_56742ab47121f5fc.jpg"
  class="img"
  style="margin: 0;"
  alt="CathyShih_Figure_Charcoal_1.jpg"
@@ -1232,12 +1232,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/traditional-art/CathyShih_Figure_Charcoal_2.jpg"
+ href="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_Figure_Charcoal_2.jpg"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/traditional-art/CathyShih_Figure_Charcoal_2_hu_1f462a741daa907a.jpg"
+ src="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_Figure_Charcoal_2_hu_1f462a741daa907a.jpg"
  class="img"
  style="margin: 0;"
  alt="CathyShih_Figure_Charcoal_2.jpg"
@@ -1319,12 +1319,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/traditional-art/CathyShih_Figure_Charcoal_3.jpg"
+ href="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_Figure_Charcoal_3.jpg"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/traditional-art/CathyShih_Figure_Charcoal_3_hu_e439c4cec1fa2592.jpg"
+ src="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_Figure_Charcoal_3_hu_e439c4cec1fa2592.jpg"
  class="img"
  style="margin: 0;"
  alt="CathyShih_Figure_Charcoal_3.jpg"
@@ -1406,12 +1406,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_1.jpg"
+ href="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_1.jpg"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_1_hu_de2988aea136121e.jpg"
+ src="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_1_hu_de2988aea136121e.jpg"
  class="img"
  style="margin: 0;"
  alt="CathyShih_Outdoor_Ink_1.jpg"
@@ -1493,12 +1493,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_2.jpg"
+ href="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_2.jpg"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_2_hu_de545f4dfc0106d9.jpg"
+ src="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_2_hu_de545f4dfc0106d9.jpg"
  class="img"
  style="margin: 0;"
  alt="CathyShih_Outdoor_Ink_2.jpg"
@@ -1580,12 +1580,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_3.jpg"
+ href="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_3.jpg"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_3_hu_9cdfa7cf76b94ff0.jpg"
+ src="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_3_hu_9cdfa7cf76b94ff0.jpg"
  class="img"
  style="margin: 0;"
  alt="CathyShih_Outdoor_Ink_3.jpg"
@@ -1667,12 +1667,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_4.jpg"
+ href="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_4.jpg"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_4_hu_a06e148ffb6f3b.jpg"
+ src="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_4_hu_a06e148ffb6f3b.jpg"
  class="img"
  style="margin: 0;"
  alt="CathyShih_Outdoor_Ink_4.jpg"
@@ -1754,12 +1754,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_5.jpg"
+ href="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_5.jpg"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_5_hu_4114efdece4c40fa.jpg"
+ src="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_Outdoor_Ink_5_hu_4114efdece4c40fa.jpg"
  class="img"
  style="margin: 0;"
  alt="CathyShih_Outdoor_Ink_5.jpg"
@@ -1841,12 +1841,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/traditional-art/CathyShih_StillLife_Charcoal_2.jpg"
+ href="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_StillLife_Charcoal_2.jpg"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/traditional-art/CathyShih_StillLife_Charcoal_2_hu_cbed623b4138bbfc.jpg"
+ src="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_StillLife_Charcoal_2_hu_cbed623b4138bbfc.jpg"
  class="img"
  style="margin: 0;"
  alt="CathyShih_StillLife_Charcoal_2.jpg"
@@ -1928,12 +1928,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/traditional-art/CathyShih_StillLife_Charcoal_3.jpg"
+ href="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_StillLife_Charcoal_3.jpg"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/traditional-art/CathyShih_StillLife_Charcoal_3_hu_bcdf4e0f6d75a640.jpg"
+ src="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_StillLife_Charcoal_3_hu_bcdf4e0f6d75a640.jpg"
  class="img"
  style="margin: 0;"
  alt="CathyShih_StillLife_Charcoal_3.jpg"
@@ -2015,12 +2015,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/traditional-art/CathyShih_StillLife_Charcoal_4.jpg"
+ href="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_StillLife_Charcoal_4.jpg"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/traditional-art/CathyShih_StillLife_Charcoal_4_hu_2949eb1194aaddd3.jpg"
+ src="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_StillLife_Charcoal_4_hu_2949eb1194aaddd3.jpg"
  class="img"
  style="margin: 0;"
  alt="CathyShih_StillLife_Charcoal_4.jpg"
@@ -2102,12 +2102,12 @@ Unity (URP), WebGL
  &lt;div class="gallery-item">
  
  &lt;a
- href="https://cathyshih.com/images/traditional-art/CathyShih_StillLife_Ink_1.jpg"
+ href="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_StillLife_Ink_1.jpg"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="https://cathyshih.com/images/traditional-art/CathyShih_StillLife_Ink_1_hu_ca5f1fdbdb4a0847.jpg"
+ src="https://portfolio.cathyshih.com/images/traditional-art/CathyShih_StillLife_Ink_1_hu_ca5f1fdbdb4a0847.jpg"
  class="img"
  style="margin: 0;"
  alt="CathyShih_StillLife_Ink_1.jpg"
@@ -2122,6 +2122,48 @@ Unity (URP), WebGL
 
  
 
-&lt;p>These are the traditional artworks made by me.&lt;/p></description></item><item><title>Privacy</title><link>https://cathyshih.com/en/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cathyshih.com/en/privacy-policy/</guid><description>&lt;p>&lt;em>Effective Date: 2024.08.15&lt;/em>&lt;/p>
+&lt;p>These are the traditional artworks made by me.&lt;/p></description></item><item><title>Elements</title><link>https://portfolio.cathyshih.com/en/elements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://portfolio.cathyshih.com/en/elements/</guid><description>&lt;details class="table-of-content ">
+ &lt;summary>
+ 
+ Table of Contents
+ 
+ &lt;/summary>
+ &lt;nav id="TableOfContents">
+ &lt;ol>
+ &lt;li>&lt;a href="#heading-2">Heading 2&lt;/a>
+ &lt;ol>
+ &lt;li>&lt;a href="#heading-3">Heading 3&lt;/a>
+ &lt;ol>
+ &lt;li>&lt;a href="#heading-4">Heading 4&lt;/a>
+ &lt;ol>
+ &lt;li>&lt;a href="#heading-5">Heading 5&lt;/a>&lt;/li>
+ &lt;/ol>
+ &lt;/li>
+ &lt;/ol>
+ &lt;/li>
+ &lt;li>&lt;a href="#emphasis">Emphasis&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#button">Button&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#link">Link&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#paragraph">Paragraph&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#ordered-list">Ordered List&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#unordered-list">Unordered List&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#notice">Notice&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#tab">Tab&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#accordions">Accordions&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#code-and-syntax-highlighting">Code and Syntax Highlighting&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#blockquote">Blockquote&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#tables">Tables&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#image">Image&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#gallery">Gallery&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#slider">Slider&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#youtube-video">Youtube video&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#custom-video">Custom video&lt;/a>&lt;/li>
+ &lt;/ol>
+ &lt;/li>
+ &lt;/ol>
+&lt;/nav>
+&lt;/details>
+
+&lt;p>Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code>#&lt;/code> for heading 1 and use &lt;code>######&lt;/code> for heading 6.&lt;/p></description></item><item><title>John Doe</title><link>https://portfolio.cathyshih.com/en/authors/john-doe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://portfolio.cathyshih.com/en/authors/john-doe/</guid><description>&lt;p>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p></description></item><item><title>Privacy</title><link>https://portfolio.cathyshih.com/en/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://portfolio.cathyshih.com/en/privacy-policy/</guid><description>&lt;p>&lt;em>Effective Date: 2024.08.15&lt;/em>&lt;/p>
 &lt;h3 id="1-what-information-i-collect">1. What Information I Collect&lt;/h3>
-&lt;p>When you reach out to me using the contact form on this website, I may ask for your name and email address. This helps me get back to you with the information or assistance you’re looking for.&lt;/p></description></item></channel></rss>
+&lt;p>When you reach out to me using the contact form on this website, I may ask for your name and email address. This helps me get back to you with the information or assistance you’re looking for.&lt;/p></description></item><item><title>Ready to build your next project with Hugo?</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Sam Wilson</title><link>https://portfolio.cathyshih.com/en/authors/sam-wilson/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://portfolio.cathyshih.com/en/authors/sam-wilson/</guid><description>&lt;p>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p></description></item><item><title>What Users Are Saying About Hugoplate</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>William Jacob</title><link>https://portfolio.cathyshih.com/en/authors/william-jacob/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://portfolio.cathyshih.com/en/authors/william-jacob/</guid><description>&lt;p>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p></description></item></channel></rss>
