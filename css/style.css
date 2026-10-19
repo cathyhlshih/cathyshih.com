@@ -874,6 +874,9 @@
   .text-dark {
     color: var(--color-dark);
   }
+  .text-darkmode-light {
+    color: var(--color-darkmode-light);
+  }
   .text-light {
     color: var(--color-light);
   }
@@ -1415,6 +1418,11 @@
   .dark\:text-darkmode-text-light {
     &:where(.dark, .dark *) {
       color: var(--color-darkmode-text-light);
+    }
+  }
+  .dark\:text-light {
+    &:where(.dark, .dark *) {
+      color: var(--color-light);
     }
   }
   .dark\:text-text-dark {
